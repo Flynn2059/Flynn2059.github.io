@@ -47,7 +47,7 @@ links:
     url: /hobbies/
   - title: Blogs
     url: http://blog.flynn2059.top
-    external: true
+    #external: true
 
 # Removed "Startups" from navigation
 
