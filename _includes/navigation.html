@@ -7,11 +7,18 @@
 		<nav role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
 		    <ul>
 		        {% for link in site.links %}
-            <li><a href="{{ site.url }}{{ link.url }}" {% if url == link.url %}class="top-navigation-current"{% endif %}>{{ link.title }}</a></li>
+		        {% if link.url contains "http" %}
+		            <!-- 外部链接，直接使用 link.url 并在新标签页打开 -->
+		            <li><a href="{{ link.url }}" target="_blank" rel="noopener noreferrer">{{ link.title }}</a></li>
+		        {% else %}
+		            <!-- 内部链接，拼接 site.url -->
+		            <li><a href="{{ site.url }}{{ link.url }}" {% if url == link.url %}class="top-navigation-current"{% endif %}>{{ link.title }}</a></li>
+		        {% endif %}
 		        {% endfor %}
 		    </ul>
 		</nav>
 	</div><!-- /.top-navigation -->
 </div><!-- /.navigation-wrapper -->
 
-<!-- Lastly modified by Hanlin CAI in 2023/05/01 -->
+<!-- Lastly modified by Flynn Jiang in 2025/03/14 -->
+
