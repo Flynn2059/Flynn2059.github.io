@@ -47,7 +47,7 @@ links:
     url: /hobbies/
   - title: Blogs
     url: "http://blog.flynn2059.top"
-    absolute_url: true
+    absolute_url: True
 
 # Removed "Startups" from navigation
 
