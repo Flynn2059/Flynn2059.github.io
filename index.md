@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://flynn2059.top/flynn.jpg" class="floatpic">
+<img src="https://raw.githubusercontent.com/Flynn2059/Flynn2059.github.io/main/images/flynn.jpg" class="floatpic">
 
 Hi! I am **Xiaolong Jiang (姜啸龙)**.<br> You can also call me Flynn.
 
@@ -53,4 +53,5 @@ My research is dedicated to leveraging high-resolution multi-omics technologies 
 
 - **GitHub**: [Flynn2059](https://github.com/Flynn2059)  
 - **Email**: [jiangxlong@mail2.sysu.edu.cn](mailto:jiangxlong@mail2.sysu.edu.cn)
+
 
