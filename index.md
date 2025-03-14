@@ -4,9 +4,9 @@ layout: page
 
 # About Me
 
-<img src="https://raw.githubusercontent.com/Flynn2059/Flynn2059.github.io/main/images/flynn.jpg" class="floatpic">
+<img src="https://raw.githubusercontent.com/Flynn2059/Flynn2059.github.io/main/images/Flynn.jpg" class="floatpic">
 
-Hi! I am **Xiaolong Jiang (姜啸龙)**.<br> You can also call me Flynn.
+Hi! I am **Xiaolong Jiang (姜啸龙)**.<br> My friends prefer calling me **Flynn**.
 
 I am a **Master student at the Sixth Affiliated Hospital, Sun Yat-sen University (SYSU)**, supervised by **Dr. Yuzhen Zheng** from the **Thoracic Surgery Department**. My research focuses on **lung and esophageal cancer**, utilizing **cutting-edge technologies** such as **single-cell transcriptomics, spatial transcriptomics, and spatial proteomics** to investigate **tumor microenvironment dynamics**. I aim to develop and apply **advanced computational methods** to achieve **higher-resolution insights into cellular changes**, ultimately uncovering the mechanisms underlying **cancer progression and drug resistance**. Through these efforts, I hope to contribute to the discovery of **novel therapeutic strategies** for cancer treatment.
 
