@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://raw.githubusercontent.com/Flynn2059/Flynn2059.github.io/main/images/Flynn.jpg" class="floatpic">
+<img src="/images/Flynn.jpg" class="floatpic">
 
 Hi! I am **Xiaolong Jiang (姜啸龙)**.<br> My friends prefer calling me **Flynn**.
 
