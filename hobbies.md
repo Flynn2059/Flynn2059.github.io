@@ -25,7 +25,8 @@ Moreover, it has allowed me to meet diverse individuals, both in the gym and at 
   - Squat: **235kg**
   - Bench Press: **130kg**
   - Deadlift: **272.5kg**
-  - **DOTS Score**: 377.57 | **IPF Points**: 533.95
+  - **DOTS Score**: 377.57
+  - **IPF Points**: 533.95
 - Former **Vice President of the Sun Yat-sen University Fitness Association**
 - Led a team to participate in the **SUSTech Powerlifting Competition**
 - Coaching undergraduate students in powerlifting
@@ -43,7 +44,7 @@ I initially turned to coffee during high school to cope with study pressure and 
 - **Favorite Origins**: African and Central American beans (**Ethiopia, Rwanda, Colombia**)
 - **Brewing Gear**:
   - **Drippers**: Hario V60 (glass，paired with cone-shaped paper filters), Lili ceramic dripper (paired with flat bottom paper filters), Origami dripper (paired with non-woven filters)
-  - **Grinder**: Commandante C40
+  - **Grinder**: Commandante C40 & Fellow ODE 1st generation
 - **Brewing Style**: Prefers **fast-flowing drippers** to highlight flavor complexity
 
 ## Tech Projects 💻
