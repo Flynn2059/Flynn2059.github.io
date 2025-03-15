@@ -9,9 +9,15 @@ title: Hobbies
 Over the years, I've developed a few hobbies that bring me joy, relaxation, and opportunities to connect with like-minded people. These include powerlifting, coffee brewing, and tinkering with various tech projects.
 
 ## Powerlifting 💪
-Powerlifting has become a core part of my life. I started training because I was completely inactive during high school and wanted to change my body and overcome the associated body shame. Throughout my undergraduate and master's studies in **clinical medicine**, powerlifting has been my way to unwind from academic pressure. Moreover, it has allowed me to meet diverse individuals, both in the gym and at competitions, enriching my social life and mental well-being.
+
+Powerlifting has become a core part of my life. I started training because I was completely inactive during high school and wanted to change my body and overcome the associated body shame. Throughout my undergraduate and master's studies in clinical medicine, powerlifting has been my way to unwind from academic pressure. <br>
+<img src="/images/powerlifting/firstIPL1.jpg">
+<img src="/images/powerlifting/firstIPL2.jpg">
+<img src="/images/powerlifting/firstIPL3.jpg">
+Moreover, it has allowed me to meet diverse individuals, both in the gym and at competitions, enriching my social life and mental well-being.
 
 ### Achievements:
+<img src="/images/powerlifting/medal.jpg" class="floatpic">
 - **1st Place** in the **125kg weight class** at the **2025 IPL Challenge Meeting in Shenzhen**
 - **1st Place** in the **100+kg weight class** at the **Southern University of Science and Technology (SUSTech) Powerlifting Competition**, where I achieved the highest **squat** and **deadlift** among all participants
 - Current bodyweight: **110kg**
@@ -19,7 +25,7 @@ Powerlifting has become a core part of my life. I started training because I was
   - Squat: **235kg**
   - Bench Press: **130kg**
   - Deadlift: **272.5kg**
-  - **DOTS Score:** 377.57 | **IPF Points:** 533.95
+  - **DOTS Score**: 377.57 | **IPF Points**: 533.95
 - Former **Vice President of the Sun Yat-sen University Fitness Association**
 - Led a team to participate in the **SUSTech Powerlifting Competition**
 - Coaching undergraduate students in powerlifting
@@ -27,8 +33,12 @@ Powerlifting has become a core part of my life. I started training because I was
 
 ## Coffee Brewing ☕
 I initially turned to coffee during high school to cope with study pressure and improve my social skills. Over time, it has grown into a passion, particularly for **hand-brewed coffee and cold drip coffee**.
-
+<img src="/images/coffee/cold1.jpg">
+<img src="/images/coffee/cold2.jpg">
+<img src="/images/coffee/hot1.jpg">
+<img src="/images/coffee/hot2.jpg">
 ### Preferences:
+<img src="/images/coffee/collection.jpg" class="floatpic">
 - **Roast Level**: Light roast
 - **Favorite Origins**: African and Central American beans (**Ethiopia, Rwanda, Colombia**)
 - **Brewing Gear**:
