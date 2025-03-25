@@ -17,9 +17,9 @@ Powerlifting has become a core part of my life. I started training because I was
 Moreover, it has allowed me to meet diverse individuals, both in the gym and at competitions, enriching my social life and mental well-being.
 
 ### Achievements:
-<img src="/images/powerlifting/Squat2025.jpg" class="floatpic">
+<img src="/images/powerlifting/Squat2025.jpg">
 
-* **1st Place** among **all participants** at the **Southern University of Science and Technology (SUSTech) Single SquatPowerlifting Competition**
+* **1st Place** among **all participants** at the **Southern University of Science and Technology (SUSTech)  Squat  Competition**
 
 <img src="/images/powerlifting/medal.jpg" class="floatpic">
 
