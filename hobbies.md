@@ -17,16 +17,21 @@ Powerlifting has become a core part of my life. I started training because I was
 Moreover, it has allowed me to meet diverse individuals, both in the gym and at competitions, enriching my social life and mental well-being.
 
 ### Achievements:
+<img src="/images/powerlifting/Squat2025.jpg" class="floatpic">
+
+* **1st Place** among **all participants** at the **Southern University of Science and Technology (SUSTech) Single SquatPowerlifting Competition**
+
 <img src="/images/powerlifting/medal.jpg" class="floatpic">
+
 - **1st Place** in the **125kg weight class** at the **2025 IPL Challenge Meeting in Shenzhen**
 - **1st Place** in the **100+kg weight class** at the **Southern University of Science and Technology (SUSTech) Powerlifting Competition**, where I achieved the highest **squat** and **deadlift** among all participants
 - Current bodyweight: **110kg**
 - Current personal bests:
-  - Squat: **235kg**
+  - Squat: **245kg**
   - Bench Press: **130kg**
   - Deadlift: **272.5kg**
-  - **DOTS Score**: 377.57
-  - **IPF Points**: 533.95
+  - **DOTS Score**: 382.58
+  - **IPF Points**: 541.60
 - Former **Vice President of the Sun Yat-sen University Fitness Association**
 - Led a team to participate in the **SUSTech Powerlifting Competition**
 - Coaching undergraduate students in powerlifting
