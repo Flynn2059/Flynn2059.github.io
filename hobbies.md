@@ -24,7 +24,7 @@ Moreover, it has allowed me to meet diverse individuals, both in the gym and at 
 
 <img src="/images/powerlifting/Deadlift2025_3.jpg">
 
-* Achieved **275kg deadlift** ( 5 red plates each side ) at the **Southern University of Science and Technology (SUSTech)  Squat  Competition** in **May 25, 2025**
+* Achieved **275kg deadlift** ( 5 red plates each side ) at the **Southern University of Science and Technology (SUSTech)  Deadlift  Competition** in **May 25, 2025**
 
 <img src="/images/powerlifting/Squat2025.jpg">
 
