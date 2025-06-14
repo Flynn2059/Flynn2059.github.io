@@ -11,7 +11,6 @@ Over the years, I've developed a few hobbies that bring me joy, relaxation, and 
 ## Powerlifting 💪
 
 Powerlifting has become a core part of my life. I started training because I was completely inactive during high school and wanted to change my body and overcome the associated body shame. Throughout my undergraduate and master's studies in clinical medicine, powerlifting has been my way to unwind from academic pressure. <br>
-<img src="/images/powerlifting/firstIPL1.jpg">
 <img src="/images/powerlifting/firstIPL2.jpg">
 <img src="/images/powerlifting/firstIPL3.jpg">
 Moreover, it has allowed me to meet diverse individuals, both in the gym and at competitions, enriching my social life and mental well-being.
