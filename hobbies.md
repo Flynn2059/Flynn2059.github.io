@@ -18,19 +18,12 @@ Moreover, it has allowed me to meet diverse individuals, both in the gym and at 
 ### Achievements:
 
 <img src="/images/powerlifting/Deadlift2025_1.jpg">
-
 <img src="/images/powerlifting/Deadlift2025_2.jpg">
-
 <img src="/images/powerlifting/Deadlift2025_3.jpg">
-
-* Achieved **275kg deadlift** ( 5 red plates each side ) at the **Southern University of Science and Technology (SUSTech)  Deadlift  Competition** in **May 25, 2025**
-
+- Achieved **275kg deadlift** (5 red plates each side) at the **Southern University of Science and Technology(SUSTech) Deadlift  Competition** in **May 25, 2025**, ranking **3rd place** among all participants
 <img src="/images/powerlifting/Squat2025.jpg">
-
-* **1st Place** among **all participants** at the **Southern University of Science and Technology (SUSTech)  Squat  Competition**
-
+- **1st Place** among **all participants** at the **Southern University of Science and Technology (SUSTech)  Squat  Competition**
 <img src="/images/powerlifting/medal.jpg" class="floatpic">
-
 - **1st Place** in the **125kg weight class** at the **2025 IPL Challenge Meeting in Shenzhen**
 - **1st Place** in the **100+kg weight class** at the **Southern University of Science and Technology (SUSTech) Powerlifting Competition**, where I achieved the highest **squat** and **deadlift** among all participants
 - Current bodyweight: **115kg**
