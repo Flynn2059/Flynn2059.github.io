@@ -9,23 +9,24 @@ title: Hobbies
 Over the years, I've developed a few hobbies that bring me joy, relaxation, and opportunities to connect with like-minded people. These include powerlifting, coffee brewing, and tinkering with various tech projects.
 
 ## Powerlifting 💪
-
 Powerlifting has become a core part of my life. I started training because I was completely inactive during high school and wanted to change my body and overcome the associated body shame. Throughout my undergraduate and master's studies in clinical medicine, powerlifting has been my way to unwind from academic pressure. <br>
 <img src="/images/powerlifting/firstIPL2.jpg">
 <img src="/images/powerlifting/firstIPL3.jpg">
-Moreover, it has allowed me to meet diverse individuals, both in the gym and at competitions, enriching my social life and mental well-being.
-
+Moreover, it has allowed me to meet diverse individuals, both in the gym and at competitions, enriching my social life and mental well-being.<br>
 ### Achievements:
-
-<img src="/images/powerlifting/Deadlift2025_1.jpg">
-<img src="/images/powerlifting/Deadlift2025_2.jpg">
-<img src="/images/powerlifting/Deadlift2025_3.jpg">
-- Achieved **275kg deadlift** (5 red plates each side) at the **Southern University of Science and Technology(SUSTech) Deadlift  Competition** in **May 25, 2025**, ranking **3rd place** among all participants
-<img src="/images/powerlifting/Squat2025.jpg">
-- **1st Place** among **all participants** at the **Southern University of Science and Technology (SUSTech)  Squat  Competition**
-<img src="/images/powerlifting/medal.jpg" class="floatpic">
-- **1st Place** in the **125kg weight class** at the **2025 IPL Challenge Meeting in Shenzhen**
-- **1st Place** in the **100+kg weight class** at the **Southern University of Science and Technology (SUSTech) Powerlifting Competition**, where I achieved the highest **squat** and **deadlift** among all participants
+- 🥉 **275kg deadlift** (5 red plates per side) @ **SUSTech Deadlift Competition**  
+  📍 **Date**: *May 25, 2025*  
+  <div style="display: flex; gap: 10px; flex-wrap: wrap;">
+    <img src="/images/powerlifting/Deadlift2025_1.jpg" style="width: 32%;">
+    <img src="/images/powerlifting/Deadlift2025_2.jpg" style="width: 32%;">
+    <img src="/images/powerlifting/Deadlift2025_3.jpg" style="width: 32%;">
+  </div>
+- 🥇 **1st Place Squat** @ **SUSTech Squat Competition**  
+  📍 **Date**: *March 23, 2025*  
+  <img src="/images/powerlifting/Squat2025.jpg" style="width: 50%;">
+- 🥇 **1st Place (125kg class)** @ **2025 IPL Challenge Meeting in Shenzhen**  
+  📍 **Date**: *Jan 6, 2025*  
+  <img src="/images/powerlifting/medal.jpg" class="floatpic" style="width: 35%;">
 - Current bodyweight: **115kg**
 - Current personal bests:
   - Squat: **245kg**
@@ -68,7 +69,7 @@ I enjoy experimenting with technology and setting up various systems for both pr
 ## Contact 📩
 If you're interested in discussing **powerlifting, coffee, or tech projects**, feel free to reach out via email:
 
-📧 **flynn2059@flynn2059.top**
+📧 **240443192@qq.com**
 
 ---
 This page serves as a collection of my hobbies and interests. Feel free to connect if we share common passions!
