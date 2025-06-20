@@ -16,14 +16,12 @@ Moreover, it has allowed me to meet diverse individuals, both in the gym and at 
 ### Achievements:
 - 🥉 **275kg deadlift** (5 red plates per side) @ **SUSTech Deadlift Competition**  
   📍 **Date**: *May 25, 2025*  
-  <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-    <img src="/images/powerlifting/Deadlift2025_1.jpg" style="width: 32%;">
-    <img src="/images/powerlifting/Deadlift2025_2.jpg" style="width: 32%;">
-    <img src="/images/powerlifting/Deadlift2025_3.jpg" style="width: 32%;">
-  </div>
+<img src="/images/powerlifting/Deadlift2025_1.jpg" style="display: block; width: 100%; margin: 10px 0;">
+<img src="/images/powerlifting/Deadlift2025_2.jpg" style="display: block; width: 100%; margin: 10px 0;">
+<img src="/images/powerlifting/Deadlift2025_3.jpg" style="display: block; width: 100%; margin: 10px 0;">
 - 🥇 **1st Place Squat** @ **SUSTech Squat Competition**  
   📍 **Date**: *March 23, 2025*  
-  <img src="/images/powerlifting/Squat2025.jpg" style="width: 50%;">
+  <img src="/images/powerlifting/Squat2025.jpg" style="display: block; width: 100%; margin: 10px 0;">
 - 🥇 **1st Place (125kg class)** @ **2025 IPL Challenge Meeting in Shenzhen**  
   📍 **Date**: *Jan 6, 2025*  
   <img src="/images/powerlifting/medal.jpg" class="floatpic" style="width: 35%;">
