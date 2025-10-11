@@ -27,11 +27,11 @@ Moreover, it has allowed me to meet diverse individuals, both in the gym and at 
   <img src="/images/powerlifting/medal.jpg" class="floatpic" style="width: 35%;">
 - Current bodyweight: **115kg**
 - Current personal bests:
-  - Squat: **245kg**
+  - Squat: **252.5kg**
   - Bench Press: **130kg**
-  - Deadlift: **275kg**
-  - **DOTS Score**: 378.79
-  - **IPF Points**: 531.94
+  - Deadlift: **280kg**
+  - **DOTS Score**: 380.48
+  - **IPF Points**: 530.60
 - Former **Vice President of the Sun Yat-sen University Fitness Association**
 - Led a team to participate in the **SUSTech Powerlifting Competition**
 - Coaching undergraduate students in powerlifting
