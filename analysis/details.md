@@ -1,3 +1,9 @@
+---
+layout: page
+title: Analysis Details
+permalink: /analysis/details/
+---
+
 # Analysis Details
 
 This page provides additional details on my analytical philosophy,
