@@ -30,6 +30,7 @@ in the context of peer review.
 Quality control is performed in a **sample-specific manner**, rather than
 using fixed global thresholds.
 <br>
+
 Metrics considered include:
 <br>
 - Number of detected genes
@@ -85,6 +86,7 @@ biological replicates.
 
 Immune repertoire data are re-quantified using MiXCR.
 <br>
+
 Two parallel representations are generated:
 - Allele-aware data for clonotype similarity and public clonotype analysis
 - Allele-collapsed data for clonal expansion and diversity analysis
@@ -97,6 +99,7 @@ This design allows flexibility across different analytical objectives.
 
 Not all datasets support all types of analyses.
 <br>
+
 Method selection depends on:
 <br>
 - Sample size and replication
