@@ -6,7 +6,10 @@ permalink: /analysis/
 
 # Rigorous, customized single-cell multi-omic data analysis for publication-ready research
 
-I provide research-grade single-cell and immune repertoire data analysis for basic and translational studies that require methodological rigor and reviewer-aware design.
+I provide research-grade single-cell multi-omic data analysis,
+including transcriptomics, chromatin accessibility, immune repertoire,
+and cell surface protein profiling, for basic and translational studies
+that require methodological rigor and reviewer-aware design.
 
 ---
 
@@ -35,7 +38,10 @@ I provide research-grade single-cell and immune repertoire data analysis for bas
 Immune repertoire data are re-quantified using MiXCR, with allele-aware and allele-collapsed outputs for clonotype similarity, diversity, and V/J gene usage analysis.
 
 ---
+For additional methodological details,  
+see [Analysis Details](/analysis/details/).
+
 
 ## Contact
 
-For customized analysis plans or example reports,  please feel free to **[Email me](mailto:jiangxlong@mail2.sysu.edu.cn)** for an initial consultation.
+For customized analysis plans or example reports,  please feel free to **[email me](mailto:jiangxlong@mail2.sysu.edu.cn)** for an initial consultation.
