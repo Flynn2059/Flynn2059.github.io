@@ -36,7 +36,7 @@ Metrics considered include:
 - Total UMI counts
 - Mitochondrial gene fraction
 - Hemoglobin gene expression
-<br>
+
 Thresholds are determined by inspecting distribution patterns within
 each sample, aiming to balance signal preservation and noise removal.
 
@@ -48,7 +48,7 @@ Batch correction strategies are selected based on:
 - Experimental design
 - Strength of batch effects
 - Risk of biological overcorrection
-<br>
+
 Methods commonly evaluated include:
 Harmony, CCA/rPCA, BBKNN, and scVI.
 <br>
@@ -64,7 +64,7 @@ Cell annotation follows a **hierarchical and iterative strategy**:
 1. Initial low-resolution clustering  
 2. Identification of major cell lineages  
 3. Progressive refinement into functional subpopulations  
-<br>
+
 This approach avoids forced overannotation and aligns with reviewer
 expectations regarding interpretability and reproducibility.
 
@@ -88,7 +88,7 @@ Immune repertoire data are re-quantified using MiXCR.
 Two parallel representations are generated:
 - Allele-aware data for clonotype similarity and public clonotype analysis
 - Allele-collapsed data for clonal expansion and diversity analysis
-<br>
+
 This design allows flexibility across different analytical objectives.
 
 ---
@@ -102,7 +102,7 @@ Method selection depends on:
 - Sample size and replication
 - Biological context
 - Data quality and experimental design
-<br>
+
 Analyses are adapted accordingly to ensure statistical validity and
 interpretability.
 
