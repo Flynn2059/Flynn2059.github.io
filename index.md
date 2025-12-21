@@ -8,7 +8,7 @@ layout: page
 
 Hi! I am **Xiaolong Jiang (姜啸龙)**.<br>My friends prefer calling me **Flynn**.
 
-I am a **Master student at the Sixth Affiliated Hospital, Sun Yat-sen University (SYSU)**, supervised by **Dr. Yuzhen Zheng** from the **Thoracic Surgery Department**. My research focuses on **lung and esophageal cancer**, utilizing **cutting-edge technologies** such as **single-cell transcriptomics, spatial transcriptomics, and spatial proteomics** to investigate **tumor microenvironment dynamics**. I aim to develop and apply **advanced computational methods** to achieve **higher-resolution insights into cellular changes**, ultimately uncovering the mechanisms underlying **cancer progression and drug resistance**. Through these efforts, I hope to contribute to the discovery of **novel therapeutic strategies** for cancer treatment.
+I am a **Master student at the Thoracic Surgery Department, Sixth Affiliated Hospital, Sun Yat-sen University (SYSU)**. My research focuses on **lung and esophageal cancer**, utilizing **cutting-edge technologies** such as **single-cell transcriptomics, spatial transcriptomics, and spatial proteomics** to investigate **tumor microenvironment dynamics**. I aim to develop and apply **advanced computational methods** to achieve **higher-resolution insights into cellular changes**, ultimately uncovering the mechanisms underlying **cancer progression and drug resistance**. Through these efforts, I hope to contribute to the discovery of **novel therapeutic strategies** for cancer treatment.
 
 If you are interested in any aspect of my research, feel free to reach out to me at - **[Email me](mailto:jiangxlong@mail2.sysu.edu.cn)**
 
@@ -40,7 +40,7 @@ My research is dedicated to leveraging high-resolution multi-omics technologies 
   - **ATAC-seq**  
   - **Whole-exome sequencing (WES)**  
 - I have mentored **five undergraduate students**, providing guidance on various topics, including but not limited to:  
-  - **Powerlifting** (strength training techniques)  
+  - **Powerlifting** (strength training techniques and meet preparation strategies)  
   - **Coffee brewing** (extraction methods and brewing techniques)  
   - **Linux basics** (introduction to Linux systems)  
   - **Docker setup and maintenance**  
