@@ -97,6 +97,7 @@ This design allows flexibility across different analytical objectives.
 Not all datasets support all types of analyses.
 
 Method selection depends on:
+
 - Sample size and replication
 - Biological context
 - Data quality and experimental design
