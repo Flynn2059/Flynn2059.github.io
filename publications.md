@@ -6,7 +6,7 @@ title: Publications
 
 ## Basic Medical Sciences
 
-> Still working very hard. Hopefully there will be something in this area by the end of 2025.
+> Still working very hard. Hopefully there will be something in this area by the coming year.
 
 ---
 
