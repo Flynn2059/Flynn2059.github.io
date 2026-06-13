@@ -14,7 +14,7 @@ Powerlifting has become a core part of my life. I started training because I was
 <img src="/images/powerlifting/firstIPL3.jpg">
 Moreover, it has allowed me to meet diverse individuals, both in the gym and at competitions, enriching my social life and mental well-being.<br>
 ### Achievements:
-- 🥈 **New PR: 700kg Total @ 117.7kg** (Squat:275kg, Bench Press:135kg, Deadlift: 290kg) @ **SUSTech Powerlifting SBD Event in 2025.11.23**
+- 🥈 **New PR: 725kg Total @ 118.6kg** (Squat:290kg, Bench Press:140kg, Deadlift: 295kg) @ **SUSTech Powerlifting SBD Event in 2026.04.26**
 - 🥉 **275kg deadlift** (5 red plates per side) @ **SUSTech Deadlift Competition**  
   📍 **Date**: *May 25, 2025*  
 <img src="/images/powerlifting/Deadlift2025_1.jpg" style="display: block; width: 100%; margin: 10px 0;">
