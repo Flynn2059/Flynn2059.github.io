@@ -11,7 +11,7 @@ owner:
   avatar: avatar.jpg
   bio: Per Aspera Ad Astra
   email: Jiangxlong@mail2.sysu.edu.cn
-  cv: https://flynn2059.top/file/CV-HanlinCAI.pdf
+  # cv: https://flynn2059.top/file/CV-HanlinCAI.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # twitter: lancecai2002
   github: Flynn2059
@@ -85,6 +85,22 @@ kramdown:
 #   shortname: lancecai
 
 include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
+exclude:
+  [
+    "lib",
+    "config.rb",
+    "Capfile",
+    "config",
+    "log",
+    "Rakefile",
+    "Rakefile.rb",
+    "tmp",
+    "less",
+    "minimal-mistakes.sublime-project",
+    "minimal-mistakes.sublime-workspace",
+    "file/CV-HanlinCAI.pdf",
+    "file/Academic-Transcript-HanlinCAI.pdf",
+    "file/Reference Contact-HanlinCAI.pdf"
+  ]
 
 # Latest update in 2025/03/14 by Flynn Jiang.
