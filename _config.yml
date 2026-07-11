@@ -3,7 +3,7 @@ tagline: This is the personal website of Xiaolong Jiang, or you can just call me
 description: Present to you by a real medical student, at least for now.
 
 # Comment out url when working locally to resolve base urls correctly
-url: http://www.flynn2059.top
+url: https://flynn2059.top
 
 # Owner/author information
 owner:
@@ -11,7 +11,7 @@ owner:
   avatar: avatar.jpg
   bio: Per Aspera Ad Astra
   email: Jiangxlong@mail2.sysu.edu.cn
-  #cv: https://www.flynn2059.top/file/CV-Flynn.pdf
+  cv: https://flynn2059.top/file/CV-HanlinCAI.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # twitter: lancecai2002
   github: Flynn2059
@@ -88,4 +88,3 @@ include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
 
 # Latest update in 2025/03/14 by Flynn Jiang.
-
